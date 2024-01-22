@@ -8,7 +8,7 @@ Welcome To My Place
 
 
 <hr>
-<h2 align="center">👋 Hi, I’m Chetan</h2>
+<h2 align="center">👋 Hi, I’m Hamza</h2>
 DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
 
 <br>
@@ -22,7 +22,7 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 - ⚡ Fact **"Remember,,, Why you started."**
 
 <hr>
-<Img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>
+<Img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
    ## :zap: Skills
 
