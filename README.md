@@ -22,7 +22,7 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 - ⚡ Fact **"Remember,,, Why you started."**
 
 <hr>
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+<Img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>
 
    ## :zap: Skills
 
