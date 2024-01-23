@@ -8,44 +8,8 @@ Welcome To My Place
 
 
 <hr>
-<<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+<h2 align="center">👋 Hi, I’m Hamza</h2>
 
-        .profile-container {
-            text-align: center;
-        }
-
-        .floating-hand {
-            animation: floatHand 2s ease-in-out infinite alternate;
-        }
-
-        @keyframes floatHand {
-            from {
-                transform: translateY(0);
-            }
-            to {
-                transform: translateY(-10px);
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="profile-container">
-        <h2 align="center">👋 Hi, I’m Hamza</h2>
-        <span class="floating-hand">👋</span>
-    </div>
 DevOps Engineer  | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
 
 <br>
