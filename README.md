@@ -4,7 +4,7 @@ Welcome To My Place
 </h2></p>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello Automations">
+<img src=<"https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2669-Anewwaytoplay.(19).pngL.jpg">
 
 
 <hr>
