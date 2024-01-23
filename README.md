@@ -19,7 +19,7 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 
 - 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Azure, Terraform**
 
-- ⚡ Fact **"Remember,,, Why you started."**
+- ⚡ Fun Fact **""I automated my morning routine with a single Git commit—coffee brewing, lights on, and coding playlist playing. DevOps isn't just for deployments!"."**
 
 <hr>
 <Img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
