@@ -9,7 +9,7 @@ Welcome To My Place
 
 <hr>
 <h2 align="center">👋 Hi, I’m Hamza</h2>
-DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
+DevOps Engineer  | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
 
 <br>
 <br>
@@ -19,7 +19,7 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 
 - 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Azure, Terraform**
 
-- ⚡ Fun Fact **""I automated my morning routine with a single Git commit—coffee brewing, lights on, and coding playlist playing. DevOps isn't just for deployments!"."**
+- ⚡ Fun Fact ** I automated my morning routine with a single Git commit—coffee brewing, lights on, and coding playlist playing. DevOps isn't just for deployments!"."**
 
 <hr>
 <Img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
