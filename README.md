@@ -5,7 +5,7 @@ Welcome To My Place
 
 <p align="center"> 
 <p align="center"> 
-<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://dribbble.com/shots/3926962-Take-Intelligent-Risks-Linkedin/attachments/10099950?mode=media)" alt="Hello world">
+
 
 
 <hr>
