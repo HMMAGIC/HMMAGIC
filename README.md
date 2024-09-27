@@ -77,44 +77,8 @@ DevOps Engineer  | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | 
 
 <hr>
 
-
-## :zap: Profile Views
-<p align="center"> 
-   <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
-</p>
-<br >
-<br />
-<hr>
-
-## :zap: Streak 🔥🔥
-<p align="center">
-   <br>
-   <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
-   <br>
-<h1 align="center">🧋🧋🧋</h1>
-<hr>
-
-<h1 align="center" >Have an idea? Let's connect:</h1>
-
-<div align="center" gap="20px">
-<!-- <a href="https://www.linkedin.com/in/chetanrakhra/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a> -->
-
-<a href="https://medium.com/@chetxn">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
-</a>
-
 <a href="https://github.com/chxtan">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
-</div>
 
-<div align="center" gap="20px">
-<a href="https://twitter.com/chxtan_">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
-</a>
 </div>
